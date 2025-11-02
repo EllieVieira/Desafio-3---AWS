@@ -49,7 +49,6 @@ Essa dificuldade foi superada por meio da análise da **documentação oficial d
 
 ## Referências  
 - [Documentação Oficial – AWS CloudFormation](https://docs.aws.amazon.com/cloudformation/index.html)  
-- [Guia de Markdown no GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github)  
-- [Formação GitHub Certification – DIO](https://web.dio.me/)  
-
+- [Guia de Markdown no GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github)
+  
 ---
